@@ -163,4 +163,4 @@ setTimeout(() => {
         // Prevent scrolling on the underlying page
         body.style.overflow = 'hidden';
     }
-}, 60000); // 60000 milliseconds = 60 seconds
+}, 90000); // 90000 milliseconds = 90 seconds
